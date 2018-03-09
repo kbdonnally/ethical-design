@@ -14,11 +14,12 @@ From Brandon: "talk for ten minutes informally on a panel with some folks from o
 2. I'm making the assumption that those of us working on social justice/equity projects want people to see them. Digital humanities projects working on subjects that address social or cultural injustice have an immplicit goal of getting people to educate themselves about the issue.
 - Education and engagement are prerequisites for mass empathy
 - Mass empathy is how social change happens
-3. I think this contrasts a lot with how we think/talk about the websites we actually put up
 - Direct link sharing between people who trust one another's subject expertise is increasingly the way that people learn details about a subject
+3. I think this contrasts a lot with how we think/talk about the websites we actually put up
+- Subtle blues, Calibri font, non-objectionable, "respectable" design
 - (A small example: the inevitable request for sources or further reading in an informative Twitter thread about a systemic injustice that a large part of the audience didn't have any idea about. It's both to verify, and to genuinely explore further.)
 - We tend to put up websites that accidentally or implicitly assume that the primary readership will be academic, or people already heavily involved in the subject
-4. It is not shameful for that to be our explicit goal; education is the only path towards mass empathy, and peer-to-peer spreading is how a lot of information is passed these days. 
+4. It is not shameful for engaging design to be our explicit goal; education is the only path towards mass empathy, and peer-to-peer spreading is how a lot of information is passed these days. 
 - There's a squeamishness around talking about design as intentional choices, rather than something that just *happens* in the process of publishing this knowledge (archive, interactive study, etc.).
 5. It's not inherently moral to look past the boring or unclear design of an academically-oriented website; and it is not inherently amoral to prefer websites that look nice to the human eye.
 6. Where this comes together, is the part I've been thinking a lot about. Design, at its core, does the heavy lifting between people loading a page and the point where that page's information speaks for itself.
