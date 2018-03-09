@@ -9,8 +9,8 @@ From Brandon: "talk for ten minutes informally on a panel with some folks from o
 
 ## Part I: Overview
 
-### 1. Who gets a bunch of their information from Twitter?
-- Social movements use peer-to-peer contact as a primary mode of spreading ideas/empathy
+### 1. Social movements use peer-to-peer contact as a primary mode of spreading ideas/empathy
+- Who gets a bunch of their information from Twitter?
 
 ### 2. I'm making the assumption that those of us working on social justice/equity projects want people to see them. Digital humanities projects working on subjects that address social or cultural injustice have an immplicit goal of getting people to educate themselves about the issue.
 - Education and engagement are prerequisites for mass empathy
