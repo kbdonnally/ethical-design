@@ -7,27 +7,32 @@ From Brandon: "talk for ten minutes informally on a panel with some folks from o
 - talk about the work you’re doing
 - your thoughts on what dh can/should be
 
-## Main Points
+## Part I: Overview
 
-1. Who gets a bunch of their information from Twitter?
+### 1. Who gets a bunch of their information from Twitter?
 - Social movements use peer-to-peer contact as a primary mode of spreading ideas/empathy
-2. I'm making the assumption that those of us working on social justice/equity projects want people to see them. Digital humanities projects working on subjects that address social or cultural injustice have an immplicit goal of getting people to educate themselves about the issue.
+
+### 2. I'm making the assumption that those of us working on social justice/equity projects want people to see them. Digital humanities projects working on subjects that address social or cultural injustice have an immplicit goal of getting people to educate themselves about the issue.
 - Education and engagement are prerequisites for mass empathy
 - Mass empathy is how social change happens
 - Direct link sharing between people who trust one another's subject expertise is increasingly the way that people learn details about a subject
-3. I think this contrasts a lot with how we think/talk about the websites we actually put up
+
+### 3. I think this contrasts a lot with how we think/talk about the websites we actually put up
 - Subtle blues, Calibri font, non-objectionable, "respectable" design
 - (A small example: the inevitable request for sources or further reading in an informative Twitter thread about a systemic injustice that a large part of the audience didn't have any idea about. It's both to verify, and to genuinely explore further.)
 - We tend to put up websites that accidentally or implicitly assume that the primary readership will be academic, or people already heavily involved in the subject
-4. It is not shameful for engaging design to be our explicit goal; education is the only path towards mass empathy, and peer-to-peer spreading is how a lot of information is passed these days. 
+
+### 4. It is not shameful for engaging design to be our explicit goal; education is the only path towards mass empathy, and peer-to-peer spreading is how a lot of information is passed these days. 
 - There's a squeamishness around talking about design as intentional choices, rather than something that just *happens* in the process of publishing this knowledge (archive, interactive study, etc.).
-5. It's not inherently moral to look past the boring or unclear design of an academically-oriented website; and it is not inherently amoral to prefer websites that look nice to the human eye.
-6. Where this comes together, is the part I've been thinking a lot about. Design, at its core, does the heavy lifting between people loading a page and the point where that page's information speaks for itself.
+
+### 5. It's not inherently moral to look past the boring or unclear design of an academically-oriented website; and it is not inherently amoral to prefer websites that look nice to the human eye.
+### 6. Where this comes together, is the part I've been thinking a lot about. Design, at its core, does the heavy lifting between people loading a page and the point where that page's information speaks for itself.
 - It keeps people - potential learners and advocates and allies - on the page until intellectually/cognitively engaged with the content itself.
 - We must remember: *unless someone already knows a ton about a given subject, the desire to stay on a page will not be immediate or inherent.*
-7. We must, as DH practitioners, embrace this moving forward, and recognize that visually appealing design is a vital part of the larger quest for human equity.
 
-## Work I'm doing
+### 7. We must, as DH practitioners, embrace this moving forward, and recognize that visually appealing design is a vital part of the larger quest for human equity.
+
+## Part II: Application
 ### Fall: TBTA
 - Main work: taking established information architecture and layering ethical design over it
 - Big lessons:
@@ -55,3 +60,5 @@ From Brandon: "talk for ten minutes informally on a panel with some folks from o
 
 
 *** Purdom's point re. technical skills w/ ADHUME program & "who could see themselves as a part of this community of practice", workshop series --> relates a lot to assumptions about our audiences for DH projects and exactly why we need to ensure design does the heavy lifting ***
+
+*** also - not a bad idea to create templates for projects with lower funding or without explicit designers available ***
